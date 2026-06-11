@@ -24,4 +24,4 @@ jobs:
       env:
         SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
         SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
-      run: surge ./ VictorContreras20251135-parcial.surge.sh
+      run: surge ./ victorcontreras20251135-parcial.surge.sh
